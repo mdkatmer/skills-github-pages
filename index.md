@@ -1,4 +1,4 @@
 ---
-title: Fundamentals of Cuppingtherapy
+title: Katmer Academy
 ---
 
